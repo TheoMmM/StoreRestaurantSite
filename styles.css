@@ -1,0 +1,39 @@
+h1 {
+    color: gold; 
+    margin: auto;
+    text-align: center;
+}
+
+ul {
+    border: 5px dashed;
+
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+    width: 50%;
+    margin: auto;
+}
+
+ul li {
+    border: 3px outset;
+
+    display: inline-block;
+}
+
+img {
+    display: block;
+    width: 25%;
+    margin: auto;
+}
+
+.PoorReportCard {
+  width: 50%;
+}
+
+.Kinmemai {
+
+}
+
+.Japanese {
+    margin: auto;
+}
